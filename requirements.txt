@@ -135,7 +135,7 @@ waitress==1.4.3
 webencodings==0.5.1
 WebOb==1.8.6
 websocket-client==0.57.0
-Werkzeug==0.16.1
+Werkzeug==3.0.1
 wrapt==1.13.3
 xhtml2pdf==0.2.4
 yapf==0.29.0
